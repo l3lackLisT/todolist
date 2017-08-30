@@ -7,3 +7,13 @@
   color: black;
   background: white;
 }
+.content {
+  display:flex;
+}
+.todo-input{
+  flex: 1;
+}
+.todo-btn{
+  width: 100px;
+  height: 50px;
+}
